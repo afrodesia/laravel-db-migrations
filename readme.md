@@ -8,4 +8,5 @@ Files used to aid in the creation of many database patterns
 - create_statuses_table
 - create_tags_table
 - create_articles_tags_table
+- create_profiles_table
 
